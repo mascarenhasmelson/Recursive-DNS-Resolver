@@ -22,8 +22,8 @@ This is a recursive DNS resolver written in Go. It queries domain names step by 
 1. Clone the repository
 
 ```
-git clone https://gitlab.com/melsonmascarenhas/dns-request.git
-cd dns-request
+https://github.com/mascarenhasmelson/Recursive-DNS-Resolver.git
+cd Recursive-DNS-Resolver
 ```
 2. Install dependencies
 
@@ -33,7 +33,7 @@ go mod tidy
 3. Build the project:
 
 ```
-go build -o dns-resolver
+go build -o Recursive-DNS-Resolver
 ```
 4. Run the server:
 
