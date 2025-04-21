@@ -38,7 +38,7 @@ go build -o Recursive-DNS-Resolver
 4. Run the server:
 
 ```
-./dns-resolver
+./Recursive-DNS-Resolver
 ```
 ### Query a Domain
 
